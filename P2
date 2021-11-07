@@ -1,6 +1,6 @@
 import java.util.*;
   
-class Second {
+class P2 {
 	
   
   public static String con(String s,int n)
